@@ -14,6 +14,16 @@ $(function () {
 
     localStorage.setItem(divId, textarea)
   })
+
+  $("#9 .description").val(localStorage.getItem("9"))
+  $("#10 .description").val(localStorage.getItem("10"))
+  $("#11 .description").val(localStorage.getItem("11"))
+  $("#12 .description").val(localStorage.getItem("12"))
+  $("#13 .description").val(localStorage.getItem("13"))
+  $("#14 .description").val(localStorage.getItem("14"))
+  $("#15 .description").val(localStorage.getItem("15"))
+  $("#16 .description").val(localStorage.getItem("16"))
+  $("#17 .description").val(localStorage.getItem("17"))
   // TODO: Add code to apply the past, present, or future class to each time
   // block by comparing the id to the current hour. HINTS: How can the id
   // attribute of each time-block be used to conditionally add or remove the
