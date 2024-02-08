@@ -2,6 +2,7 @@
 
 ## Description
 A web application to assist in scehduling your work day by hour.
+
 Technologies used: HTML, CSS, JavaScript, jQuery
 
 ## Screenshot
@@ -10,6 +11,7 @@ Technologies used: HTML, CSS, JavaScript, jQuery
 ## URLs
 
 GitHub Repository URL: https://github.com/MrOahu/David-Wright-Work-Day-Scheduler
+
 Live URL: https://mroahu.github.io/David-Wright-Work-Day-Scheduler/
 
 ## Author
