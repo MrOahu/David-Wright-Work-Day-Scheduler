@@ -1,7 +1,7 @@
 # David-Wright-Work-Day-Scheduler
 
 ## Description
-A web application to assist in scehduling your work day by hour.
+A web application to assist in scheduling your work day by hour.
 
 Technologies used: HTML, CSS, JavaScript, jQuery
 
